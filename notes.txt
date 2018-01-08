@@ -1,0 +1,6 @@
+https://github.com/Srdjan/react-multistep  ?
+no guplfile or webpack file how is supposed to bundle? and bundle.js is missing of course Solved by $npm run build
+App structure: 
+/example
+[stepone, steptwo...] -> signup/index.js, ../../src/mulistep.js -> app.js -> index.html
+what and where are buttons "next previous" made in react? in multistep.js
